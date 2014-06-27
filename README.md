@@ -1,7 +1,7 @@
 Spring MVC With Groovy Beans Example
 ------------------------------------
 
-This project demonstrates how to use Groovy bean definitions and inject them into a Spring MVC @Controller. 
+This project demonstrates how to use Groovy bean definitions and inject them into a Spring MVC @Controller using Spring Boot. 
 
 Running The Example
 -----
